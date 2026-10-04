@@ -11,41 +11,20 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/darshanpatil-dev">LinkedIn</a>
   •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:">Email</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Interested in Backend & Full-Stack Developme
+- 💻 Full-Stack Developer focused on Backend & GenAI
 - 🤖 Exploring Generative AI and AI-powered applications
 - 🧠 Currently improving DSA, System Design & Backend Architecture
 - 🚀 I enjoy building and understanding how systems work
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
-    height="165"
-  />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"
-  />
-</p>
