@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2954E3&center=true&vCenter=true&width=550&lines=Backend+Developer;GenAI+Developer;Full-Stack+Developer;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2954E3&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;GenAI+Developer;Backend+Developer;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -22,8 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BTech student
-- 💻 Interested in Backend & Full-Stack Development
+- 💻 Interested in Backend & Full-Stack Developme
 - 🤖 Exploring Generative AI and AI-powered applications
 - 🧠 Currently improving DSA, System Design & Backend Architecture
 - 🚀 I enjoy building and understanding how systems work
