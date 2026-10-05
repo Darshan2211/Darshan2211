@@ -14,7 +14,9 @@
 
   <!-- Social Links -->
   <p>
-    <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+    <a href="www.linkedin.com/in/darshanpatil-dev
+
+">LinkedIn</a>
     &nbsp;•&nbsp;
     <a href="mailto:YOUR_EMAIL">Contact</a>
   </p>
@@ -71,30 +73,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
-    height="170"
-  />
-
-</div>
-
-<br>
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"
-  />
-
-</div>
