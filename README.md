@@ -14,9 +14,7 @@
 
   <!-- Social Links -->
   <p>
-    <a href="www.linkedin.com/in/darshanpatil-dev
-
-">LinkedIn</a>
+    <a href="www.linkedin.com/in/darshanpatil-dev">LinkedIn</a>
     &nbsp;•&nbsp;
     <a href="mailto:YOUR_EMAIL">Contact</a>
   </p>
