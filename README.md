@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Patil</h1>
+<h1 align="center">Hi 👋, I'm Darshan </h1>
 
 <h3 align="center">Full Stack & GenAI Developer</h3>
 
@@ -27,4 +27,9 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,react,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,aws,git,github" />
+</p>
 
