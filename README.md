@@ -12,6 +12,12 @@
 
   <br>
 
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2954E3&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;GenAI+Developer;Backend+Developer;Always+Learning+%26+Building" />
+</p>
+
+<br>
+
   <!-- Social Links -->
   <p>
     <a href="www.linkedin.com/in/darshanpatil-dev">LinkedIn</a>
