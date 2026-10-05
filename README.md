@@ -1,35 +1,100 @@
-<h1 align="center">Hi 👋, I'm Darshan </h1>
+<div align="center">
 
-<h3 align="center">Full Stack & GenAI Developer</h3>
+  <!-- Header -->
+  <h1>Hi 👋, I'm Darshan</h1>
 
-<p align="center">
-  Building backend systems, AI-powered applications, and full-stack products.
-</p>
+  <h3>Full-Stack &amp; GenAI Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2954E3&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;GenAI+Developer;Backend+Developer;Always+Learning+%26+Building" />
-</p>
+  <p>
+    Building backend systems, AI-powered applications,<br>
+    and full-stack products.
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/darshanpatil-dev">LinkedIn</a>
-  •
-  <a href="mailto:">Email</a>
-</p>
+  <br>
+
+  <!-- Social Links -->
+  <p>
+    <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+    &nbsp;•&nbsp;
+    <a href="mailto:YOUR_EMAIL">Contact</a>
+  </p>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer focused on Backend & GenAI
-- 🤖 Exploring Generative AI and AI-powered applications
-- 🧠 Currently improving DSA, System Design & Backend Architecture
-- 🚀 I enjoy building and understanding how systems work
+- 💻 Full-Stack Developer focused on Backend &amp; GenAI
+- 🤖 Building AI-powered applications and backend systems
+- 🧠 Currently improving DSA, System Design &amp; Backend Architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,react,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,aws,git,github" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,cpp" />
 </p>
 
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases &amp; Cache
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+### DevOps &amp; Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+</p>
+
+### 🤖 GenAI
+
+<p>
+  Gemini &nbsp;•&nbsp; OpenAI &nbsp;•&nbsp; Embeddings &nbsp;•&nbsp; Vector Search &nbsp;•&nbsp; RAG
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
+    height="170"
+  />
+
+</div>
+
+<br>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"
+  />
+
+</div>
